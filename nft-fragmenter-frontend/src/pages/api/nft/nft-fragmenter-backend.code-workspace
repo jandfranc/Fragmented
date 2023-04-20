@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../nft-fragmenter-backend"
+		},
+		{
+			"path": "../../../.."
+		},
+		{
+			"path": "../../../../../nft-fragmenter-smart-contract"
+		}
+	],
+	"settings": {}
+}
